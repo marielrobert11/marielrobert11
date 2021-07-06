@@ -1,5 +1,5 @@
 ### Hi there 👋
-Je stocke ici les exercices que j'ai fait en formation de Développement Web chez WF3.
+
 
 <!--
 **marielrobert11/marielrobert11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
